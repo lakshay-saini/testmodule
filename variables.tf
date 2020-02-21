@@ -29,5 +29,5 @@ variable "VM_ADMIN" {
 
 variable "VM_PASSWORD" {
   description = "password"
-  default = "Shubham@123"
+  default = "test@123"
 }
